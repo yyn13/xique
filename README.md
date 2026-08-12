@@ -1,4 +1,4 @@
-# 喜鹊标书 AI
+# AI标书制作软件哪个好？来试试喜鹊标书 AI
 
 <p align="center">
   <img src="assets/hero.png" alt="喜鹊标书AI产品展示" width="100%">
